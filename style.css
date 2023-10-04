@@ -1,0 +1,50 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  margin-left: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+/* Center the heading horizontally */
+.center-heading {
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #fff;
+  grid-column: span 2;
+}
+
+.section {
+  padding: 20px;
+  border: 1px;
+}
+
+select {
+  font-size: 20px;
+  width: 275px;
+  padding: 5px;
+  background-color: #1db99f;
+  color: #fff;
+}
+
+table {
+  width: 100%;
+}
+
+.center-column {
+  text-align: center;
+}
+
+.caption {
+  font-style: italic;
+  text-align: right;
+  margin-top: 5px;
+  margin-left: 600px;
+}
