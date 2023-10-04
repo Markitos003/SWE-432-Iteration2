@@ -78,7 +78,6 @@ body {
   grid-gap: 20px;
 }
 
-/* Center the heading horizontally */
 .center-heading {
   text-align: center;
 }
