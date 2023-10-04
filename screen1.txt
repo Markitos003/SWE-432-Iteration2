@@ -32,7 +32,6 @@ body {
   margin-left: 50px;
 }
 
-/* Center the heading horizontally */
 .center-heading {
   text-align: center;
 }
